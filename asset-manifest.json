@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Web3-connect-wallet/static/css/main.8b4917c8.css",
+    "main.js": "/Web3-connect-wallet/static/js/main.faa9d33a.js",
+    "static/js/787.6496bdb9.chunk.js": "/Web3-connect-wallet/static/js/787.6496bdb9.chunk.js",
+    "index.html": "/Web3-connect-wallet/index.html",
+    "main.8b4917c8.css.map": "/Web3-connect-wallet/static/css/main.8b4917c8.css.map",
+    "main.faa9d33a.js.map": "/Web3-connect-wallet/static/js/main.faa9d33a.js.map",
+    "787.6496bdb9.chunk.js.map": "/Web3-connect-wallet/static/js/787.6496bdb9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8b4917c8.css",
+    "static/js/main.faa9d33a.js"
+  ]
+}
